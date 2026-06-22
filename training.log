@@ -1,0 +1,82 @@
+2026-03-26 12:13:33,957 - FakeProfileTrainer - INFO - Loading datasets...
+2026-03-26 12:13:33,980 - FakeProfileTrainer - INFO - Training shape: (576, 11), Testing shape: (120, 11)
+2026-03-26 12:13:33,981 - FakeProfileTrainer - INFO - Building ColumnTransformer and Pipeline...
+2026-03-26 12:13:33,981 - FakeProfileTrainer - INFO - Starting hyperparameter tuning with GridSearchCV...
+2026-03-26 12:13:45,620 - FakeProfileTrainer - INFO - Best Parameters: {'classifier__max_depth': None, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 100}
+2026-03-26 12:13:45,620 - FakeProfileTrainer - INFO - Best Cross-Validation F1-Score: 0.9354
+2026-03-26 12:13:45,621 - FakeProfileTrainer - INFO - Evaluating model on test set...
+2026-03-26 12:13:45,676 - FakeProfileTrainer - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.90      0.93        60
+           1       0.91      0.97      0.94        60
+
+    accuracy                           0.93       120
+   macro avg       0.94      0.93      0.93       120
+weighted avg       0.94      0.93      0.93       120
+
+2026-03-26 12:13:45,677 - FakeProfileTrainer - INFO - Model Metrics: {'Accuracy': 0.9333333333333333, 'Precision': 0.90625, 'Recall': 0.9666666666666667, 'F1 Score': 0.9354838709677419, 'ROC AUC': 0.9919444444444444}
+2026-03-26 12:14:54,464 - FakeProfileTrainer - INFO - Loading datasets...
+2026-03-26 12:14:54,476 - FakeProfileTrainer - INFO - Training shape: (576, 11), Testing shape: (120, 11)
+2026-03-26 12:14:54,477 - FakeProfileTrainer - INFO - Building ColumnTransformer and Pipeline...
+2026-03-26 12:14:54,478 - FakeProfileTrainer - INFO - Starting hyperparameter tuning with GridSearchCV...
+2026-03-26 12:15:06,645 - FakeProfileTrainer - INFO - Best Parameters: {'classifier__max_depth': None, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 100}
+2026-03-26 12:15:06,646 - FakeProfileTrainer - INFO - Best Cross-Validation F1-Score: 0.9354
+2026-03-26 12:15:06,647 - FakeProfileTrainer - INFO - Evaluating model on test set...
+2026-03-26 12:15:06,714 - FakeProfileTrainer - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.90      0.93        60
+           1       0.91      0.97      0.94        60
+
+    accuracy                           0.93       120
+   macro avg       0.94      0.93      0.93       120
+weighted avg       0.94      0.93      0.93       120
+
+2026-03-26 12:15:06,715 - FakeProfileTrainer - INFO - Model Metrics: {'Accuracy': 0.9333333333333333, 'Precision': 0.90625, 'Recall': 0.9666666666666667, 'F1 Score': 0.9354838709677419, 'ROC AUC': 0.9919444444444444}
+2026-03-26 12:15:08,226 - FakeProfileTrainer - INFO - Pipeline saved to model/advanced_model.joblib
+2026-03-26 12:15:08,226 - FakeProfileTrainer - INFO - Advanced Machine Learning Training Complete!
+2026-03-26 12:16:58,531 - FakeProfileTrainer - INFO - Loading datasets...
+2026-03-26 12:16:58,548 - FakeProfileTrainer - INFO - Training shape: (576, 11), Testing shape: (120, 11)
+2026-03-26 12:16:58,548 - FakeProfileTrainer - INFO - Building ColumnTransformer and Pipeline...
+2026-03-26 12:16:58,549 - FakeProfileTrainer - INFO - Starting hyperparameter tuning with GridSearchCV...
+2026-03-26 12:17:08,990 - FakeProfileTrainer - INFO - Best Parameters: {'classifier__max_depth': None, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 100}
+2026-03-26 12:17:08,990 - FakeProfileTrainer - INFO - Best Cross-Validation F1-Score: 0.9354
+2026-03-26 12:17:08,991 - FakeProfileTrainer - INFO - Evaluating model on test set...
+2026-03-26 12:17:09,041 - FakeProfileTrainer - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.90      0.93        60
+           1       0.91      0.97      0.94        60
+
+    accuracy                           0.93       120
+   macro avg       0.94      0.93      0.93       120
+weighted avg       0.94      0.93      0.93       120
+
+2026-03-26 12:17:09,042 - FakeProfileTrainer - INFO - Model Metrics: {'Accuracy': 0.9333333333333333, 'Precision': 0.90625, 'Recall': 0.9666666666666667, 'F1 Score': 0.9354838709677419, 'ROC AUC': 0.9919444444444444}
+2026-03-26 12:17:10,329 - FakeProfileTrainer - INFO - Pipeline saved to model/advanced_model.joblib
+2026-03-26 12:17:10,329 - FakeProfileTrainer - INFO - Advanced Machine Learning Training Complete!
+2026-03-26 12:24:43,469 - FakeProfileTrainer - INFO - Loading datasets...
+2026-03-26 12:24:43,485 - FakeProfileTrainer - INFO - Training shape: (576, 11), Testing shape: (120, 11)
+2026-03-26 12:24:43,486 - FakeProfileTrainer - INFO - Building ColumnTransformer and Pipeline...
+2026-03-26 12:24:43,486 - FakeProfileTrainer - INFO - Starting hyperparameter tuning with GridSearchCV...
+2026-03-26 12:24:57,166 - FakeProfileTrainer - INFO - Best Parameters: {'classifier__max_depth': None, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 100}
+2026-03-26 12:24:57,166 - FakeProfileTrainer - INFO - Best Cross-Validation F1-Score: 0.9354
+2026-03-26 12:24:57,167 - FakeProfileTrainer - INFO - Evaluating model on test set...
+2026-03-26 12:24:57,235 - FakeProfileTrainer - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.90      0.93        60
+           1       0.91      0.97      0.94        60
+
+    accuracy                           0.93       120
+   macro avg       0.94      0.93      0.93       120
+weighted avg       0.94      0.93      0.93       120
+
+2026-03-26 12:24:57,236 - FakeProfileTrainer - INFO - Model Metrics: {'Accuracy': 0.9333333333333333, 'Precision': 0.90625, 'Recall': 0.9666666666666667, 'F1 Score': 0.9354838709677419, 'ROC AUC': 0.9919444444444444}
+2026-03-26 12:24:58,800 - FakeProfileTrainer - INFO - Pipeline saved to model/advanced_model.joblib
+2026-03-26 12:24:58,801 - FakeProfileTrainer - INFO - Advanced Machine Learning Training Complete!
