@@ -34,5 +34,7 @@ An enterprise-grade Machine Learning system designed to identify fraudulent soci
 3. **Launch Dashboard**: Run `streamlit run dashboard.py` for the interactive experience.
 4. **CLI Mode**: Run `python main.py` for terminal-based testing.
 
+Deployment
+https://fake-profile-detection-v8xwvlyvsrtddrrwliauxp.streamlit.app
 ---
 *Created as an advanced data mining and analytics project.*
